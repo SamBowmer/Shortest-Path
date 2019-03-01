@@ -6,7 +6,7 @@
 using namespace std;
 
 /*******************************************************************************
-			CSCI203		Assignment 3	Sam Bowmer		sjb194
+			Sam Bowmer	shortest path A* algorithm
 *******************************************************************************/
 //~~~~~~~~~~~~~~~~~~~~~~~ GLOBAL VARIABLES & CONSTANTS ~~~~~~~~~~~~~~~~~~~~~~~~~
 const int arraySize = 1000;
